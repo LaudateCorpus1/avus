@@ -41,4 +41,8 @@ As of now, only the CSV input that is created with [ThreadFix' CLI importer](htt
 Furthermore, the CSV file needs to be preprocessed (see `examples/prep.awk`).
 The rare entries without a CWE ID are passed through unchanged.
 
+Concepts and rationale of AVUS are documented in the following publication:
+
+S. Renatus, C. Bartelheimer, and J. Eichler. Improving prioritization of software weaknesses using security models with AVUS, [Source Code Analysis and Manipulation (SCAM 2015)](http://www.ieee-scam.org/2015/program.html), to be published.
+
 AVUS is copyright © 2015 Fraunhofer AISEC, and released to the public under the terms of the MIT license.
